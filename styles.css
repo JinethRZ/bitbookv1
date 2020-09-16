@@ -1,0 +1,29 @@
+.bg-pink{
+    background-color: pink;
+}
+
+.height-carousel {
+    max-height: 400px;
+    min-height: 400px;
+}
+
+.icon-redes {
+    font-size: 50px;
+    margin-right: 3%;
+}
+
+.fa-telegram-plane{
+    color: rgb(30, 158, 233);
+}
+
+.fa-facebook-square {
+    color: blue;
+}
+
+.fa-instagram-square {
+    color: magenta;
+}
+
+.fa-linkedin {
+    color: rgb(18, 87, 179);
+}
