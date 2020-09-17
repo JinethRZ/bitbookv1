@@ -7,8 +7,16 @@
     min-height: 400px;
 }
 
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    border-radius: .25rem;
+}
+
 .icon-redes {
-    font-size: 50px;
+    font-size: 20px;
     margin-right: 3%;
 }
 
